@@ -1,0 +1,6 @@
+/.vscode
+/.nodule_modules
+/.dist
+*.env
+.env
+.env.*
